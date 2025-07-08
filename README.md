@@ -15,8 +15,7 @@ He speaks English at an intermediate level, German at a beginner level, and Arab
 Don't forget to follow us on our social media accounts below 👇
 
 ## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/drmurataltun/](https://www.linkedin.com/in/hasan-k%C3%B6stek-365311251?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrmLMKp4FS2yWG90MkhSjdQ%3D%3D))
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)]([https://www.instagram.com/drmurataltun/](https://www.instagram.com/hasannkostek?igsh=aHZiYXE5N3hoYmtv&utm_source=qr))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/drmurataltun/](www.linkedin.com/in/hasan-köstek-365311251)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/hasankstek))
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-blue?style=for-the-badge&logo=huggingface)](https://huggingface.co/hasannkostek)
 
